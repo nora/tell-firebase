@@ -1,7 +1,8 @@
 # firebase-react-redux
 <https://yir-todo.firebaseapp.com/>  
 Firebase, React, Redux で伝言ゲーム作る  
-※製作中
+※製作中  
+branched
 
 >Cloned this repo  
 <https://github.com/r-park/todo-react-redux>
